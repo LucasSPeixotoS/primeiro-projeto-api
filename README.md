@@ -9,3 +9,10 @@ Spring Web
 Spring Boot DevTools
 Spring Data JPA
 H2 Database 
+
+Utilizando:
+
+Usar o método Get para receber a List
+Usar o método Post para publicar os clientes
+
+Utilizar localhost:8080/clientes.
