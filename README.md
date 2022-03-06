@@ -1,5 +1,7 @@
 # primeiro-projeto-api
- Criando uma API básica com Spring Boot
+Criando uma API básica com Spring Boot.
+
+Criada para conclusão do Bootcamp Dio GFT Start.
 
 Utilizei as seguintes dependências:
 
